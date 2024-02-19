@@ -4,7 +4,7 @@ This repository is existed for sharing research results.
 # Publications
 
 ## Conference Papers
-1. Signed Graph Laplacian for Semi-Supervised Anomaly Detection, Jihong Bae, Hyeongcheol Park, Minsoo Chung, Muhammad Toaha Raza Khan, Kyungchul Lee, ICAIIC 2024, February 19, 2024.
+1. Signed Graph Laplacian for Semi-Supervised Anomaly Detection, Jihong Bae, Hyeongcheol Park, Minsoo Chung, Muhammad Toaha Raza Khan, Kyungchul Lee, ICAIIC 2024, February 19th, 2024.
 
 ## Patents
 1. (Will be appeared)
