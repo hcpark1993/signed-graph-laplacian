@@ -11,7 +11,7 @@ This repository is existed for sharing research results.
 1. (Will be appeared)
 
 ## Software Registrations
-1. Signed graph Laplacian based preprocessing library for data used in semi-supervised learning, C-2024-007112, Korea Copyright Commission, Republic of Korea.
+1. Signed graph Laplacian based preprocessing library for data used in semi-supervised learning, C-2024-007112, Korea Copyright Commission, Republic of Korea, February 2024.
 
 # Researchers
 1. Jihong Bae
